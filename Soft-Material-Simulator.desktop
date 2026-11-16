@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Soft Material Simulator
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Soft Material Simulator
+Comment=Voxelyze Physics Grid Simulation Interface
+Exec="/home/vboxuser/vox_sim/dist/Soft Material Simulator"
+Icon=system-run
+Terminal=false
+Categories=Science;Education;Development;
+

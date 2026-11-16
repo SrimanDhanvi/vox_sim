@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+.env/
+.venv/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.spec.user
+
+# Local editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated simulation output
+sim_fig/
+*.log
+
+# If you do not want to track local runtime files
+vox_tmp/
+
+# Keep the actual app source and binary needed by the project
+!main.py
+!sim_runner.py
+!requirements.txt
+!Soft Material Simulator.spec
+!voxelyze/
